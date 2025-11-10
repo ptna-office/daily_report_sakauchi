@@ -1,2 +1,2 @@
 # daily_report_sakauchi
-阪内の日報リポジトリ
+阪内の業務報告用リポジトリ
